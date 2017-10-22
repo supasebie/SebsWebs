@@ -103,7 +103,7 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #CC5200;
+		background-color: #FCB350;
 		position: relative;
       border: none;
       float: right;
@@ -349,7 +349,9 @@
       font: 14px/1.9em 'librebaskerville-regular', sans-serif;
       width: 90%;
    }
-  
+   header .hero-text h1 {
+     font-size: 20px;
+  }
    /* header social links */
    header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
