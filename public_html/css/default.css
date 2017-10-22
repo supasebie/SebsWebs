@@ -797,6 +797,17 @@ properly.
 	text-align: center !important;
 }
 
+/* ?. Header Text ---------------------------------------------------*/
+.var {
+	color: #F77669;
+}
 
+.var-name {
+	color: #06D6A0; 
+}
+
+.var-value {
+	color: #FCB350;
+}
 
 
